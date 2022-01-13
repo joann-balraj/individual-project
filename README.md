@@ -14,8 +14,11 @@
 
 # Project Description:
 As a part of the Codeup Data Science Curriculum (https://ds.codeup.com/individual-project/individual-project/) I am asked to use my knowledge and understanding of the data science pipeline to explore a data set of my choice. 
+
+
 > ### So what is this?
-> This project will show you exactly what makes a bad password, and how you can avoid using one. If you use any of these 10,000 most commonly used passwords, you should **change it immediately!** Using passwords like these is extremely dangerous. A hacker could easily use or generate files like this, to get into important accounts like Google, Apple ID, bank accounts, etc. Once a hacker gets into accounts like those, it's over. So let's see what to avoid bad passwords, and what would make a good password.
+> This project will show you what features make a bad password, and how you can avoid using one. If you use any of these 10,000 most commonly used passwords, you should **change it immediately!** Using passwords like these is detrimental. A hacker could easily use or generate files like this to get into important accounts like Google, Apple ID, bank accounts, etc. Once a hacker gets into accounts like those, it's over. So let's see what to avoid bad passwords, and what would make a good password.
+
 
 ### First, what makes a good password?
 > Well, we know that a good password should prevent people like hackers from gaining access to your private accounts/information. A good password should be hard to guess, uncommon, and somewhat long.
