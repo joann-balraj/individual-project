@@ -1,4 +1,7 @@
 <div align="center">
+    
+    
+# Decided to go with Time Series Analysis project instead, here is the link: https://github.com/joann-balraj/time-series-project
 
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2018/12/shutterstock_779676172-1-compressor.jpg?w=780&h=408&crop=1" alt="Zillow Logo" title="Zillow Logo" width="1000" height="200" align="center"/>
     
